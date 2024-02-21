@@ -3,10 +3,11 @@
 #include "lists.h"
 
 /**
- * print_listint - prints all elements of a listint_t list
- * @h: pointer to head of list
- * Return: number of nodes
+ * print_listint - Prints all elements of a listint_t list.
+ * @h: Pointer to the head of the list.
+ * Return: The number of nodes in the list.
  */
+
 size_t print_listint(const listint_t *h)
 {
 	const listint_t *current;
