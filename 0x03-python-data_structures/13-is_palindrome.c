@@ -1,6 +1,6 @@
 /*
  * File: 13-is_palindrome.c
- * Auth: Gedeon Obae Gekonge
+ * # Wyclife Kimutai <kimutaiwyclife6@gmail.com
  */
 
 #include "lists.h"
@@ -9,10 +9,10 @@ listint_t *reverse_listint(listint_t **head);
 int is_palindrome(listint_t **head);
 
 /**
- * reverse_listint - Reverses a singly-linked listint_t list.
- * @head: A pointer to the starting node of the list to reverse.
+ * reverse_listint - Reverses a singly-linked listint_t
+ * @head: pointer to the starting node of the list to reverse
  *
- * Return: A pointer to the head of the reversed list.
+ * Return: pointer to the head of the reversed list
  */
 listint_t *reverse_listint(listint_t **head)
 {
