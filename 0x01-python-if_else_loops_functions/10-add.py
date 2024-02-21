@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 10-add.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 
 
 def add(a, b):
