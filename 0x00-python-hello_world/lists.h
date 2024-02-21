@@ -4,13 +4,13 @@
 #include <stddef.h>
 
 /**
- * struct listint_s - singly linked list
- * @n: integer
- * @next: points to the next node
+ * struct listint_s - Singly linked list node structure
+ * @n: Integer data stored in the node
+ * @next: Pointer to the next node in the list
  *
- * Description: singly linked list node structure
- * for Holberton project
+ * Description: Defines the structure of a node in a singly linked list
  */
+
 typedef struct listint_s
 {
   int n;
