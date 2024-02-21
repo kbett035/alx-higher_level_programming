@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 7-add_tuple.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
+# 7-add_tuple.py task
 
 
 def add_tuple(tuple_a=(), tuple_b=()):
