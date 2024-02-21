@@ -1,6 +1,6 @@
 #!/usr/bin/python3
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 # 8-uppercase.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
 def uppercase(str):
