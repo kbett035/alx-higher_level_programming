@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 102-magic_calculation.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 
 
 def magic_calculation(a, b, c):
