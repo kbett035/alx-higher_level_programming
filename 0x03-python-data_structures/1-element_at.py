@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 1-element_at.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
+# 1-element_at.py task
 
 
 def element_at(my_list, idx):
