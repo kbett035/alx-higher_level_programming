@@ -1,7 +1,7 @@
 
 /*
  * File: 13-insert_number.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Wyclife Kimutai
  */
 
 #include "lists.h"
