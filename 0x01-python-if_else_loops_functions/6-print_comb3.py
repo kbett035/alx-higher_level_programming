@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # 6-print_comb3.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
-
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 """Print all possible different combinations of two digits in ascending order.
     The two digits must be different - 01 and 10 are considered identical.
     """
