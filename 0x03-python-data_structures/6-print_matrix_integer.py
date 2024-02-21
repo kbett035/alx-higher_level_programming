@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 6-print_matrix_integer.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 
 
 def print_matrix_integer(matrix=[[]]):
