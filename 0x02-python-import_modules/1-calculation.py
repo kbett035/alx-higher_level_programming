@@ -1,6 +1,6 @@
 #!/usr/bin/python3
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 # 1-calculation.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 if __name__ == "__main__":
     """Print the sum, difference, multiple and quotient of 10 and 5."""
