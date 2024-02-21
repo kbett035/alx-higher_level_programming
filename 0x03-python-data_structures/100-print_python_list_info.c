@@ -1,13 +1,13 @@
 /*
  * File: 100-print_python_list_info.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Wyclife Kimutai
  */
 
 #include <Python.h>
 
 /**
- * print_python_list_info - Prints basic info about Python lists.
- * @p: A PyObject list.
+ * print_python_list_info - Print basic info about Python
+ * @p: A PyObject
  */
 void print_python_list_info(PyObject *p)
 {
