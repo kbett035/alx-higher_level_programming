@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 100-my_calculator.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
+# 100-my_calculator.py task
 
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""
