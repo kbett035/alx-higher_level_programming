@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 11-delete_at.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
+# 11-delete_at.py task
 
 
 def delete_at(my_list=[], idx=0):
