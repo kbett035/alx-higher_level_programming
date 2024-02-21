@@ -2,12 +2,12 @@
 #include "lists.h"
 
 /**
- * check_cycle - Checks if a singly-linked list contains a cycle.
- * @list: A singly-linked list.
+ * check_cycle - Determines whether a singly-linked list contains a cycle.
+ * @list: A pointer to the head of the singly-linked list.
  *
- * Return: If there is no cycle - 0.
- *         If there is a cycle - 1.
+ * Return: 0 if there is no cycle, 1 if there is a cycle.
  */
+
 int check_cycle(listint_t *list)
 {
 	listint_t *turtle, *hare;
