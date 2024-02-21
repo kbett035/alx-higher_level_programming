@@ -1,7 +1,6 @@
 #!/usr/bin/python3
-# 4-hidden_discovery.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
-
+# 4-hidden_discovery.py task
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 if __name__ == "__main__":
     """Print all names defined by hidden_4 module."""
     import hidden_4
