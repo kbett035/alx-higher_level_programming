@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-# 3-infinite_add.py
-# Gedeon Obae Gekonge <gideonobaegmail.com>
+# 3-infinite_add.py task
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 
 if __name__ == "__main__":
     """Print the addition of all arguments."""
