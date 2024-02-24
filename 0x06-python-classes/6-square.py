@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 # 6-square.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 """Define a class Square."""
 
 
 class Square:
-    """Represent a square."""
+    """Represents a square."""
 
     def __init__(self, size=0, position=(0, 0)):
         """Initialize a new square.
