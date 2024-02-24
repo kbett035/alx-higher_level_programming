@@ -1,8 +1,8 @@
 #!/usr/bin/python3
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 # 5-raise_exception.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
 def raise_exception():
-    """Raise a TypeError exception."""
+    """Raises a TypeError exception."""
     raise TypeError
