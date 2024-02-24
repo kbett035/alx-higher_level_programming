@@ -1,10 +1,11 @@
 #!/usr/bin/python3
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 # 10-best_score.py
-# Gedeon Obae Ge <gideonobae@gmail.com>
+
 
 
 def best_score(a_dictionary):
-    """Returns a key with the biggest integer value."""
+    """Returns key with the greater integer value."""
     if not isinstance(a_dictionary, dict) or len(a_dictionary) == 0:
         return None
 
