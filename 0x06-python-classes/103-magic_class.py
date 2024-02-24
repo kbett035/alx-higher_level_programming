@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 103-magic_calculation.py
-# Gedeon Obae Gekonge
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 """Define a MagicClass matching exactly a bytecode provided by Holberton."""
 
 import math
