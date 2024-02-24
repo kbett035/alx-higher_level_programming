@@ -1,6 +1,6 @@
 #!/usr/bin/python3
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 # 6-raise_exception_msg.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
 def raise_exception_msg(message=""):
