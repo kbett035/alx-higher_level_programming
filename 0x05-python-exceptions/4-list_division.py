@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 # 4-list_division.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 
 
 def list_division(my_list_1, my_list_2, list_length):
-    """Divides two lists element by element.
+    """Divide two lists element by element.
     Args:
         my_list_1 (list): The first list.
         my_list_2 (list): The second list.
