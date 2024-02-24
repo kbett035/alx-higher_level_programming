@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # 3-safe_print_division.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
+
 
 
 def safe_print_division(a, b):
