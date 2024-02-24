@@ -1,10 +1,11 @@
 #!/usr/bin/python3
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 # 102-complex_delete.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+
 
 
 def complex_delete(a_dictionary, value):
-    """Delete keys with a specific value in a dictionary."""
+    """Deletes keys with a specific value in a dictionary"""
     while value in a_dictionary.values():
         for k, v in a_dictionary.items():
             if v == value:
