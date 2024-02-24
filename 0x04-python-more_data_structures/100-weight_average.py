@@ -1,10 +1,10 @@
 #!/usr/bin/python3
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 # 100-weight_average.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
 
 
 def weight_average(my_list=[]):
-    """Return the weighted average of all integers in a list of tuples."""
+    """Returns weighted avarage of integers in a list of tuples."""
     if not isinstance(my_list, list) or len(my_list) == 0:
         return (0)
 
