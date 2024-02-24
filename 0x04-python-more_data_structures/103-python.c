@@ -1,6 +1,6 @@
 /*
  * File: 103-python.c
- * Auth: Gedeon Obae Gekonge
+ * Auth: Wyclife Kimutai
  */
 
 #include <Python.h>
@@ -9,8 +9,8 @@ void print_python_list(PyObject *p);
 void print_python_bytes(PyObject *p);
 
 /**
- * print_python_list - Prints basic info about Python lists.
- * @p: A PyObject list object.
+ * print_python_list - It Prints the basic info about Python list.
+ * @p: PyObject lists object
  */
 void print_python_list(PyObject *p)
 {
