@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-safe_function.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 
 import sys
 
