@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 1-safe_print_integer.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com
 
 
 def safe_print_integer(value):
