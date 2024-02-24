@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 # 100-singly_linked_list.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
-"""Define classes for a singly-linked list."""
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
+"""Defines classes for a singly-linked list."""
 
 
 class Node:
-    """Represent a node in a singly-linked list."""
+    """Represents a node in a singly-linked list."""
 
     def __init__(self, data, next_node=None):
         """Initialize a new Node.
