@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 2-uniq_add.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com>
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 
 
 def uniq_add(my_list=[]):
