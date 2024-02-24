@@ -1,6 +1,6 @@
 #!/usr/bin/python3
+# Wyclife Kimutai <kimutaiwyclife6@gmail.com>
 # 1-search_replace.py
-# Gedeon Obae Gekonge <gideonobae@gmail.com
 
 
 def search_replace(my_list, search, replace):
